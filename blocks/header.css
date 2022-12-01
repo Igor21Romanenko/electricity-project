@@ -1,4 +1,5 @@
 .header {
+  /* to do class header_page_newyear */
   background-image: url('../images/header-bg-alt-2.jpg');
   background-position: left bottom;
   background-repeat: no-repeat;
@@ -6,7 +7,6 @@
   display: flex;
   flex-direction: column;
   position: relative;
-  /* background: #42745c; */
   min-height: 600px;
   max-height: 756px;
   height: 100vh;
