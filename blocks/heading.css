@@ -1,0 +1,10 @@
+.heading {
+  font-size: 42px;
+  max-width: 764px;
+  margin: 0;
+  padding: 2px;
+  position: relative;
+  top: 0;
+  left: 54px;
+  z-index: 3;
+}

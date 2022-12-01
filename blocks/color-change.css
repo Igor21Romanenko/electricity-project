@@ -1,0 +1,21 @@
+.change-color {animation: color-change 5s linear infinite;
+}
+
+@keyframes color-change {
+  0%{
+    border-top: 5px solid #fff; 
+    border-left: 5px solid #fff;
+  }
+  33%{
+    border-top: 5px solid #eeeab3; 
+    border-left: 5px solid #eeeab3;
+  }
+  66%{
+    border-top: 5px solid #96f8fc; 
+    border-left: 5px solid #96f8fc;
+  }
+  100%{
+    border-top: 5px solid #fff; 
+    border-left: 5px solid #fff;
+  }
+}

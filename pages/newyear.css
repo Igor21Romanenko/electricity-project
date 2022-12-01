@@ -1,0 +1,25 @@
+/* use BEM flat */
+@import url('../vendor/normalize.css');
+@import url('../vendor/fonts.css');
+@import url('../blocks/page.css');
+@import url('../blocks/header.css');
+@import url('../blocks/header__column-links.css');
+@import url('../blocks/header__column-link.css');
+@import url('../blocks/header__title.css');
+@import url('../blocks/header__subtitle.css');
+@import url('../blocks/header__main-image.css');
+@import url('../blocks/color-change.css');
+@import url('../blocks/header__top.css');
+@import url('../blocks/start.css');
+@import url('../blocks/heading.css');
+@import url('../blocks/heading_bg-color_red.css');
+@import url('../blocks/start__paragraph.css');
+@import url('../blocks/start__span-accent.css');
+@import url('../blocks/whatsapp-link.css');
+@import url('../blocks/start__heandup.css');
+@import url('../blocks/start__background.css');
+@import url('../blocks/start__mockup.css');
+@import url('../blocks/description.css');
+@import url('../blocks/description-list.css');
+@import url('../blocks/description__item.css');
+@import url('../blocks/how.css');

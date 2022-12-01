@@ -1,0 +1,10 @@
+.header__top {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  min-height: 80px;
+  margin: 0;
+  padding: 0;
+}

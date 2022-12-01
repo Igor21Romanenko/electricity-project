@@ -1,0 +1,10 @@
+.description {
+  margin: 199px 0 0 0;
+  height: 140px;
+  background-color: #42745c;
+  background-image: url('../images/bg-yellow-s-lights-vertical.png');
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

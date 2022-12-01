@@ -1,0 +1,13 @@
+.start__background {
+  background-image: url('../images/start-background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 400px;
+  height: 470px;
+  position: absolute;
+  top: 50px;
+  right: 150px;
+  box-shadow: inset 0 0 15px 20px #fff;
+  border: 2px solid #fff;
+  box-sizing: border-box;
+}
