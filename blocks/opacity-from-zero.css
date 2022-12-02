@@ -5,6 +5,7 @@
 @keyframes opacity-form-zero {
   from{
     opacity: 0;
+    visibility:hidden
   }
   to{
     opacity: 1;

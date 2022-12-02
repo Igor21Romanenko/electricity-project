@@ -6,6 +6,7 @@
   from{
     opacity: 0;
     transform: scale(0);
+    visibility: hidden;
   }
   to{
     opacity: 1;
