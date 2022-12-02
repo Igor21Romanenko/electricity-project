@@ -7,7 +7,9 @@
 @import url('../blocks/header__row-links.css');
 @import url('../blocks/header__row-link.css');
 @import url('../blocks/header__title.css');
+@import url('../blocks/opacity-from-zero.css');
 @import url('../blocks/header__subtitle.css');
+@import url('../blocks/opacity-and-scale.css');
 @import url('../blocks/header__main-image.css');
 @import url('../blocks/color-change.css');
 @import url('../blocks/header__top.css');
