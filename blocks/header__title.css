@@ -1,7 +1,7 @@
 .header__title {
   color: #fff;
   text-shadow: 2px 0 2px #000, 0 2px 2px #000, -2px 0 2px #000, 0 -2px 2px #000;
-  width: 730px;
+  max-width: 730px;
   font-size: 102px;
   line-height: 96px;
   margin: 65px 0 0 64px;
