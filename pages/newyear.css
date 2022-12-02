@@ -3,8 +3,9 @@
 @import url('../vendor/fonts.css');
 @import url('../blocks/page.css');
 @import url('../blocks/header.css');
-@import url('../blocks/header__column-links.css');
-@import url('../blocks/header__column-link.css');
+@import url('../blocks/header_page_newyear.css');
+@import url('../blocks/header__row-links.css');
+@import url('../blocks/header__row-link.css');
 @import url('../blocks/header__title.css');
 @import url('../blocks/header__subtitle.css');
 @import url('../blocks/header__main-image.css');
@@ -23,3 +24,8 @@
 @import url('../blocks/description-list.css');
 @import url('../blocks/description__item.css');
 @import url('../blocks/how.css');
+
+@import url('../blocks/footer.css');
+@import url('../blocks/footer__row.css');
+@import url('../blocks/footer__date.css');
+@import url('../blocks/footer__tel.css');
