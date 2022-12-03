@@ -1,0 +1,17 @@
+.cost__paragraph {
+  text-align: center;
+  margin: 0 auto;
+  padding: 0;
+  font-size: 32px;
+  max-width: 1100px;
+}
+
+.cost__paragraph:nth-of-type(1) {
+  margin-top: 50px;
+}
+
+.cost__paragraph:nth-of-type(2) {
+  margin-top: 20px;
+  text-decoration: underline;
+  text-decoration-color: #f6c667;
+}

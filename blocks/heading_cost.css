@@ -1,0 +1,12 @@
+.heading_cost {
+  margin: 0 auto;
+  background-color: #f6c667;
+  border-radius: 5px;
+  color: #fff;
+  text-align: center;
+  font-size: 56px;
+  font-weight: 600;
+  max-width: 400px;
+  position: relative;
+  left: 0;
+}
