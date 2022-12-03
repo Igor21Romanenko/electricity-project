@@ -7,9 +7,7 @@
 @import url('../blocks/header__row-links.css');
 @import url('../blocks/header__row-link.css');
 @import url('../blocks/header__title.css');
-@import url('../blocks/opacity-from-zero.css');
 @import url('../blocks/header__subtitle.css');
-@import url('../blocks/opacity-and-scale.css');
 @import url('../blocks/header__main-image.css');
 @import url('../blocks/color-change.css');
 @import url('../blocks/header__top.css');
@@ -22,10 +20,14 @@
 @import url('../blocks/start__heandup.css');
 @import url('../blocks/start__background.css');
 @import url('../blocks/start__mockup.css');
-@import url('../blocks/description.css');
-@import url('../blocks/description-list.css');
-@import url('../blocks/description__item.css');
-@import url('../blocks/how.css');
+@import url('../blocks/galery.css');
+@import url('../blocks/galery__bg.css');
+@import url('../blocks/heading_galery.css');
+@import url('../blocks/galery__subtitle.css');
+@import url('../blocks/galery__two-columns.css');
+@import url('../blocks/galery__column.css');
+@import url('../blocks/galery__column-title.css');
+@import url('../blocks/galery__image.css');
 
 @import url('../blocks/footer.css');
 @import url('../blocks/footer__row.css');

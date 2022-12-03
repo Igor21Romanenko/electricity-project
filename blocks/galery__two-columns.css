@@ -1,0 +1,8 @@
+.galery__two-columns {
+  padding: 0;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  list-style: none;
+}

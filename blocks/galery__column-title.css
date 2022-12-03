@@ -1,0 +1,8 @@
+.galery__column-title {
+  padding: 0;
+  margin: 70px auto;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: 2px 0 2px #000, 0 2px 2px #000, -2px 0 2px #000, 0 -2px 2px #000;
+}
