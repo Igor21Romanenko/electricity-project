@@ -4,8 +4,9 @@
 @import url('../blocks/page.css');
 @import url('../blocks/header.css');
 @import url('../blocks/header_page_newyear.css');
-@import url('../blocks/header__row-links.css');
-@import url('../blocks/header__row-link.css');
+@import url('../blocks/links.css');
+@import url('../blocks/link.css');
+@import url('../blocks/link_page_newyear.css');
 @import url('../blocks/header__title.css');
 @import url('../blocks/header__subtitle.css');
 @import url('../blocks/header__main-image.css');
@@ -21,9 +22,9 @@
 @import url('../blocks/start__background.css');
 @import url('../blocks/start__mockup.css');
 @import url('../blocks/galery.css');
-@import url('../blocks/color-change__galery.css');
+@import url('../blocks/color-change_galery.css');
 @import url('../blocks/galery__bg.css');
-@import url('../blocks/heading_galery.css');
+@import url('../blocks/heading_text_shadow.css');
 @import url('../blocks/galery__subtitle.css');
 @import url('../blocks/galery__two-columns.css');
 @import url('../blocks/galery__column.css');
@@ -32,8 +33,15 @@
 @import url('../blocks/cost.css');
 @import url('../blocks/heading_cost.css');
 @import url('../blocks/cost__paragraph.css');
-
+@import url('../blocks/why.css');
+@import url('../blocks/why__bg.css');
+@import url('../blocks/table.css');
+@import url('../blocks/table__cell.css');
+@import url('../blocks/table__heading.css');
+@import url('../blocks/table__items.css');
+@import url('../blocks/table__item.css');
 @import url('../blocks/footer.css');
 @import url('../blocks/footer__row.css');
 @import url('../blocks/footer__date.css');
 @import url('../blocks/footer__tel.css');
+@import url('../blocks/scroll-up.css');

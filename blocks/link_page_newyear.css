@@ -1,19 +1,18 @@
-.header__column-link {
-  color: #fff;
+.link_page_newyear {
   text-shadow: 1px 0 1px #000, 0 1px 1px #000, -1px 0 1px #000, 0 -1px 1px #000;
-  text-decoration: none;
-  font-size: 22px;
-  padding: 0;
-  margin: 0;
-  transition: all 0.4s ease-in 0.2s;
 }
-/* to do class cheader__column-link_page_new_year */
-.header__column-link:nth-of-type(2) {
+
+.link_page_newyear:nth-of-type(1) {
+  text-decoration: none;
+  color: #fff;
+}
+
+.link_page_newyear:nth-of-type(2) {
   text-decoration: underline;
   color: #eeeab3;
 }
 
-.header__column-link:hover {
+.link_page_newyear:hover {
   color: #eeeab3;
   text-decoration: underline;
   text-decoration-color: #eeeab3;

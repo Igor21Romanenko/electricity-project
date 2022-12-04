@@ -1,8 +1,21 @@
 .start__heandup {
   position: absolute;
   z-index: 2;
-  top: 220px;
+  top: 385px;
   left: 155px;
   width: 40px;
   height: 40px;
+  animation: bounce 1s ease-in-out infinite;
+}
+
+@keyframes bounce {
+    0% {
+      top: 385px;
+    }
+    50% {
+      top: 390px;
+    }
+    100% {
+      top: 385px;
+    }
 }

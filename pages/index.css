@@ -2,5 +2,17 @@
 @import url('../vendor/normalize.css');
 @import url('../vendor/fonts.css');
 @import url('../blocks/page.css');
-@import url('../blocks/header__column-links.css');
-@import url('../blocks/header__column-link.css');
+@import url('../blocks/header.css');
+@import url('../blocks/header__top.css');
+@import url('../blocks/links.css');
+@import url('../blocks/link.css');
+@import url('../blocks/time-title.css');
+@import url('../blocks/time-paragraph.css');
+@import url('../blocks/time-container.css');
+@import url('../blocks/footer.css');
+@import url('../blocks/footer__row.css');
+@import url('../blocks/footer__date.css');
+@import url('../blocks/footer__tel.css');
+@import url('../blocks/scroll-up.css');
+
+

@@ -1,0 +1,13 @@
+.why__bg {
+  background-image: url('../images/why-bg.jpg');
+  position: absolute;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
