@@ -40,6 +40,11 @@
 @import url('../blocks/table__heading.css');
 @import url('../blocks/table__items.css');
 @import url('../blocks/table__item.css');
+@import url('../blocks/icons.css');
+@import url('../blocks/icons__row.css');
+@import url('../blocks/icons__item.css');
+@import url('../blocks/icons__title.css');
+@import url('../blocks/icons__image.css');
 @import url('../blocks/footer.css');
 @import url('../blocks/footer__row.css');
 @import url('../blocks/footer__date.css');
